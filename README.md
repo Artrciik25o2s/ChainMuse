@@ -28,6 +28,22 @@ Imagine holding Bored Apes on Ethereum or being a legendary Axie player—your d
    Issue **upgradable soulbound tokens (SBTs)** on Ethereum, Solana, Aptos, and others as verified credentials. These SBTs represent ownership, reputation, or accomplishments. Later, through DAO governance, we’ll introduce **rarity scoring** and **collection credit**, enabling undercollateralized lending, exclusive access, or cross-platform trust.
 
 ---
+### Screenshots:
+
+![s0](https://github.com/user-attachments/assets/ebbf4d84-5cd6-49f5-aea6-21d87fb5f480)
+![s01](https://github.com/user-attachments/assets/8ce9ffda-48e6-4ee7-99b2-290f0905bc87)
+![s02](https://github.com/user-attachments/assets/c0c36e85-d31c-4477-b1ec-8b4c9b4ab888)
+![s1](https://github.com/user-attachments/assets/fdb01491-fd1f-47ba-b4ed-ec95a9c10b6b)
+![s2](https://github.com/user-attachments/assets/9650d6cd-12dc-49f4-a281-cde5c16d5582)
+![s3](https://github.com/user-attachments/assets/d0788106-ac28-45bb-b61f-939cbc12467a)
+![s4](https://github.com/user-attachments/assets/a9e48803-bf91-4b12-a0ea-089480441b2a)
+![s5](https://github.com/user-attachments/assets/43b21933-8a86-4e3a-8da1-cffb91092b7c)
+![s6](https://github.com/user-attachments/assets/6e8d0c56-9917-417a-b1c6-7a12df66d34c)
+![s7](https://github.com/user-attachments/assets/919aa03a-27e2-472e-bf31-d58edc233aa6)
+
+
+
+---
 
 ### **How We Built It**
 
